@@ -1,0 +1,8 @@
+#packages
+*.zip
+
+#IDE generated files
+.ipynb_checkpoints
+
+ProHack.ipynb
+prohack_dataset
